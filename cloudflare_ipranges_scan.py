@@ -13,7 +13,7 @@ R = bg+'\033[31m'
 
 print(O+'''
 \tWEBSOCKET SCANNER
-\tBy : ABDOXFOX
+\tBy : BETOVIP
 '''+GR)
 
 ranges = '''104.17.208.0/24
